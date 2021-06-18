@@ -1,2 +1,2 @@
-# my-blogs
-A collection of my blog posts!
+# Blogs, authored by me:
+1. 
